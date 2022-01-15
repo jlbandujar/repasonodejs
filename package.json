@@ -1,0 +1,14 @@
+{
+  "name": "repaso",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
